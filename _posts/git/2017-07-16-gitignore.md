@@ -27,7 +27,7 @@ touch .gitignore
 *.a       # 忽略所有 .a 结尾的文件
 !lib.a    # 但 lib.a 除外
 /-liberxuesite     # 仅仅忽略项目根目录下的 liberxuesite 文件，不包括 subdir/liberxuesite
-liberxue/    # 忽略 liberxue文件夹/ 目录下的所有文件以及文件夹本身
+themegoal/    # 忽略 liberxue文件夹/ 目录下的所有文件以及文件夹本身
 doc/*.txt # 会忽略 doc/notes.txt 但不包括 doc/server/arch.txt
 ```
 ## gitignore忽略规则不生效原因
