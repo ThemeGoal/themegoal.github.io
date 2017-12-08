@@ -55,11 +55,11 @@ git add . && git ci -m "update"
 ```
 ##### 创建一个测试project
 
-在你的github上面创建一个project，比如：https://github.com/liberxue
+在你的github上面创建一个project，比如：https://github.com/themegoal
 
 ######  配置远端加密版本库
 ```
-git remote add cryptremote gcrypt::git@github.com:liberxue/liberxue.git
+git remote add cryptremote gcrypt::git@github.com:themegoal/themegoal.git
 ```
 ###### 最好指定用哪个key加密
  这样可以共享这个key给其他人用
@@ -87,7 +87,7 @@ gpg --import secretkey.asc
 ```
 ###### 下载代码
 ```
-git clone gcrypt::git@github.com:liberxue/liberxue.git test2 // test2是git clone 在本地的文
+git clone gcrypt::git@github.com:themegoal/themegoal.git test2 // test2是git clone 在本地的文
 件名
 ```
 ###### 也要指定一下用什么key加密
