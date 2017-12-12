@@ -12,7 +12,7 @@
 <body class="bg-grey" gtools_scp_screen_capture_injected="true"><div id="MathJax_Message" style="display: none;"></div>
 <header id="header" class="header bg-white">
     <div class="navbar-container">
-      <a href="/?themegoal" title="{{  site.title }}" class="navbar-logo"> <img src="{{ site.url }}/style/images/logo-themegoal.png" alt="{{ site.title }}"> </a>
+      <a href="/?themegoal" title="{{  site.title }}" class="navbar-logo"> <img src="{{ site.url }}/assets/images/logo-themegoal.png" alt="{{ site.title }}"> </a>
         <div class="navbar-menu">
            {% for link in site.links %}             
             <a href="{{ link.url }}?themegoal"  title="{{  link.name }}" data-hover="{{link.name}}">{{ link.name }}</a>
@@ -56,7 +56,6 @@
         <div class="markdown-body">
           {{ content }}
         </div>
-        {% if is_post %}{% include signoff.html %}{% endif %}
       </main>
       {% if is_post %}{% include pagination.html %}{% endif %}
     </div>

@@ -20,7 +20,6 @@ links:
   - name:         Book
     url:          /book
     external:     false
-
   - name:         Archives
     url:          /archives
     external:     false
