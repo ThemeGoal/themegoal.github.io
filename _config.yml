@@ -7,7 +7,7 @@ facebook_appid:   #themegoal
 #google_analytics: UA-101222464-1
 share:            true 
 # 分页
-paginate: 15
+paginate: 6
 paginate_path: "themegoal:num"
 gems: [jekyll-paginate]
 links:
@@ -15,22 +15,17 @@ links:
     url:          /
     external:     false
   - name:         Shopify
-    url:          /Shopify
+    url:          /shopify
     external:     false
   - name:         Book
     url:          /book
     external:     false
-  - name:         Road
-    url:          /road
-    external:     false
+
   - name:         Archives
     url:          /archives
     external:     false
   - name:         Tags
     url:          /tags
-    external:     false
-  - name:         About
-    url:          /about
     external:     false
 # ------------ CONFIGURABLE END ------------
 

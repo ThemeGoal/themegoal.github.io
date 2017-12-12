@@ -2,7 +2,7 @@
 
 `Jekyll Themes`
 ----------
-[中文版帮助文档README](/ChinaREADME.md)
+
 ## `Lightweight`  `Minimalist`  `Jekyll blog`
 
 ### The first step is to click [fork][https://github.com/themegoal/themegoal.github.io/fork]
