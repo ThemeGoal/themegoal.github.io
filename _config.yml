@@ -17,18 +17,23 @@ links:
   - name:         Shopify
     url:          /shopify
     external:     false
-  - name:         Book
-    url:          /book
+  - name:         Magento
+    url:          /Magento
     external:     false
-  - name:         Archives
-    url:          /archives
+  - name:         OpenCart
+    url:          /OpenCart
     external:     false
-  - name:         Tags
-    url:          /tags
+  - name:         PrestaShop
+    url:          /PrestaShop
     external:     false
+  - name:         WooCommerce
+    url:          /WooCommerce
+    external:     false
+
 # ------------ CONFIGURABLE END ------------
 
-permalink:        /:categories/:title.html
+permalink:        /:title.html
+#permalink:        /:categories/:title.html
 #permalink: /:year/:month/:day/:title.html
 defaults:
   - values:
