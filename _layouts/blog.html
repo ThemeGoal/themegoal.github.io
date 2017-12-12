@@ -20,7 +20,7 @@
             <span class="icon-search"></span>
             <form id="cb-search-btn" role="search">
          <span class="search-box">
-         <input type="text" class="input" id="cb-search-content" required="true" placeholder="标题 标签..." maxlength="30" autocomplete="off">
+         <input type="text" class="input" id="cb-search-content" required="true" placeholder="Title Tag..." maxlength="30" autocomplete="off">
         </span>
             </form>
         </div>
@@ -41,7 +41,7 @@
     <h1 class="post-title" itemprop="name headline">
 	{{ page.title }}</h1>
 		 <div class="post-data">  
-	 <time datetime="{{ page.date | date: '%F %H:%M:%S'}}" itemprop="datePublished">Published：{{ page.date | date: "%F %H:%M:%S"}}</time>
+	 <time datetime="{{ page.date | date: '%F %H:%M:%S'}}" itemprop="datePublished">Published：{{ page.date | date: "%F"}}</time>
      <a href="/tags#{{ page.category }}" title="Visit {{ page.category }}" data-hover="Category: {{ page.category }}">Category: {{ page.category }}</a>
     <!--<a href="#read"> Read: comments</a>-->
 			</div>
