@@ -18,7 +18,7 @@ links:
     url:          /shopify
     external:     false
   - name:         Magento
-    url:          /Magento
+    url:          /magento
     external:     false
   - name:         OpenCart
     url:          /OpenCart
