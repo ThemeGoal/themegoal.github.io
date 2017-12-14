@@ -21,7 +21,7 @@ links:
     url:          /magento
     external:     false
   - name:         OpenCart
-    url:          /OpenCart
+    url:          /opencart
     external:     false
   - name:         PrestaShop
     url:          /PrestaShop

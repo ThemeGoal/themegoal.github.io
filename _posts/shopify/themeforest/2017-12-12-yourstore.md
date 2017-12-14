@@ -11,7 +11,7 @@ tags:
 - clothing shopify themes
 - fashion boutique
 - fashion shopify themes
-
+- Shopify
 ---
  
  ![](https://s3.envato.com/files/237707708/01_Preview_Shopify-2-0-1.__large_preview.jpg)

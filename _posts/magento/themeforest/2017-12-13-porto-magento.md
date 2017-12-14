@@ -11,6 +11,7 @@ tags:
 - Magento 2.2.1
 - Magento 1.7.1
 - Porto
+- Magento
 
 ---
  
