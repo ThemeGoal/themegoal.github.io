@@ -9,6 +9,7 @@ share:            true
 # 分页
 paginate: 6
 paginate_path: "themegoal:num"
+#paginatepath: ['opencart/page/:num','shopify/page/:num','magento/page/:num']
 gems: [jekyll-paginate]
 links:
   - name:         Home
@@ -24,10 +25,7 @@ links:
     url:          /opencart
     external:     false
   - name:         PrestaShop
-    url:          /PrestaShop
-    external:     false
-  - name:         WooCommerce
-    url:          /WooCommerce
+    url:          /prestashop
     external:     false
 
 # ------------ CONFIGURABLE END ------------
