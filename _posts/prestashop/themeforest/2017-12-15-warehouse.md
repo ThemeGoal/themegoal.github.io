@@ -27,10 +27,10 @@ tags:
  ![](https://camo.envatousercontent.com/31ce333fba941e4852cc55bcd8377c91deb676ce/687474703a2f2f77617265686f7573652e697169742d636f6d6d657263652e636f6d2f646f63756d656e746174696f6e2f646573632f6e657731372f31365f62746e2e6a7067)
  ![](https://camo.envatousercontent.com/f065054d4d754e8c4d7a689799e5ac9677c45b20/687474703a2f2f77617265686f7573652e697169742d636f6d6d657263652e636f6d2f646f63756d656e746174696f6e2f646573632f6e657731372f335f73756d6d6172792e6a7067)
  
- ##Compatibility
+ ### Compatibility
  Prestashop 1.7.2.x for WAREHOUSE 4.x
  Prestashop 1.6.1.x for WAREHOUSE 3.x
- ##Support
+ ### Support
  Support is provided by our ticket system
 
  
